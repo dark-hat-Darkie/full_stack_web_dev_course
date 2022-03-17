@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    float: right;
+}
+
+p {
+    float: left;
+    width: 400px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.div {
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 15px;
+}
