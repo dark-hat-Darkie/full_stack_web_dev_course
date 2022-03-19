@@ -1,0 +1,26 @@
+.flex-item {
+    height: 70px;
+    width: 150px;
+    border: 1px solid blue;
+    
+}
+
+.sec {
+    align-self: center;
+}
+
+.green-box {
+    background-color: green;
+}
+
+.for {
+    align-self: flex-end;
+}
+
+.flex-wrapper {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    background-color: red;
+}
+
